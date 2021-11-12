@@ -1,0 +1,10 @@
+player1:5000
+player2:4500
+player3:4000
+player4:3500
+player5:3000
+player6:2500
+player7:2000
+player8:1500
+player9:1000
+matt:610

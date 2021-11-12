@@ -1,0 +1,2 @@
+#Any compiled java classes from local tests
+*.class

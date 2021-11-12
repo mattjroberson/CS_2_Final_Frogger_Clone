@@ -6,5 +6,5 @@ player5:3000
 player6:2500
 player7:2000
 player8:1500
+Matthew:1120
 player9:1000
-matt:610

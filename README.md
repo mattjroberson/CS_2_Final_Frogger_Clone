@@ -26,7 +26,7 @@ To build the program in a Windows environment:
 * Frog orientation does not reset with game
 
 # Contributions & Licensing
-This project is closed to contributions, however feel free to fork and use any part of the codebase.
+This project is closed to development, however feel free to fork and use any part of the codebase.
 
 # Acknowledgements
 Art assets courtesy of https://www.classicgaming.cc/classics/frogger/icons 

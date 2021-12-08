@@ -2,9 +2,9 @@
 # Description
 Frogger Clone is a re-creation of the classic arcade game Frogger. I wrote the game over the course of a week as my final project in Computer Science II. The project is coded 100% in Java, and was built to showcase an understanding of Object Oriented Programming and Model-View-Controller Architecture.
 
-# Snapshot
+# Snapshots
 ![demo](./readme_assets/snapshot1.png)
-
+<br><br>
 Video Demonstration: https://www.youtube.com/watch?v=FbcctMlml7E
 
 # Build Instructions
